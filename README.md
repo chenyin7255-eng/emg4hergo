@@ -54,7 +54,7 @@ emg4hergo/
 - **Visualization scripts** (e.g., `visualization.py`, `visualization_3D*.py`, `visualization_Video.py`) are **only for qualitative visualization**. They do **not** participate in model training or quantitative analysis.
 - **Dependencies**: See `environment.yml`. It is nearly identical to emg2pose’s; only minor additions may exist.
 - **Reproducibility**: Running `train_spyder_run.py` with the provided configs and a working emg2pose environment should reproduce the results reported in our paper (once the full code is released).
-- **Ergonomic scoring (`ergo/` folder)**: This folder contains partial results of automatic ergonomic scoring for hand postures predicted from EMG. The scoring is **purely vision‑based** (operates directly on the predicted 3D hand joints) and does **not** use EMG signal features. The underlying implementation code is **not released** in this partial distribution. However, we provide the pretrained recognition network (`handpose_model.pth`) for reproducibility of the scoring results. The `validation_results/` subfolder shows example outputs on the validation set.
+- **Ergonomic scoring (`ergo/` folder)**: This folder contains partial results of automatic ergonomic scoring for hand postures predicted from EMG. The scoring is **purely vision‑based** (operates directly on the predicted 3D hand joints) and does **not** use EMG signal features. The underlying implementation code is **not released** in this partial distribution. The `validation_results/` subfolder shows example outputs on the validation set.
 
 
  
