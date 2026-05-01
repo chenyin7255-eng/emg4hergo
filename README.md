@@ -60,7 +60,7 @@ emg4hergo/
  
 ## Citation & Full Release
 ﻿
-If you use this code, please cite our work (to be added after publication). The complete, polished code will be made available at **[GitHub URL to be added]** upon paper acceptance.
+If you use this code, please cite our work (to be added after publication). The complete, polished code will be made available at **(https://github.com/chenyin7255-eng/emg4hergo.git)** upon paper acceptance.
 ﻿
 For questions, contact the authors.
 
